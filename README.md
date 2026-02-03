@@ -1,5 +1,3 @@
-<![CDATA[<div align="center">
-
 # 👋 Hi, I'm Yu-Cheng (Ramon) Liao
 
 ### Crypto Analyst | Quantitative Trader | SUI Network Builder | Full Stack Developer
@@ -8,8 +6,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RamonLiaoYC)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kohwys.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ramonliao.vercel.app/)
-
-</div>
 
 ---
 
@@ -21,30 +17,11 @@ Full-stack developer specializing in **Crypto Analysis**, **Quantitative Trading
 
 ## 🔥 Core Focus
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="48"/><br/>
-<b>Crypto Analysis</b><br/>
-<sub>Market Trend Analysis<br/>On-chain Data Research<br/>Token Economics</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/candle-sticks.png" width="48"/><br/>
-<b>Quantitative Trading</b><br/>
-<sub>Grid Bot Strategies<br/>Auto Coin Rotation<br/>Risk Management</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/blockchain-new-logo.png" width="48"/><br/>
-<b>SUI Network</b><br/>
-<sub>Move Smart Contracts<br/>DeFi Protocol Dev<br/>Ecosystem Tooling</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/business-report.png" width="48"/><br/>
-<b>Business Analysis</b><br/>
-<sub>Business Model Design<br/>Data-Driven Decisions<br/>Project Management</sub>
-</td>
-</tr>
-</table>
+| Crypto Analysis | Quantitative Trading | SUI Network | Business Analysis |
+|:---------------:|:--------------------:|:-----------:|:-----------------:|
+| Market Trend Analysis | Grid Bot Strategies | Move Smart Contracts | Business Model Design |
+| On-chain Data Research | Auto Coin Rotation | DeFi Protocol Dev | Data-Driven Decisions |
+| Token Economics | Risk Management | Ecosystem Tooling | Project Management |
 
 ---
 
@@ -103,19 +80,13 @@ Next-generation POAP platform combining AR, AI, and cross-chain technology:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonLiao&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLiao&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
-
 ---
 
 ## 🌐 Connect With Me
-
-<div align="center">
 
 | Platform | Link |
 |----------|------|
@@ -124,13 +95,6 @@ Next-generation POAP platform combining AR, AI, and cross-chain technology:
 | 📝 Blog | [kohwys.com](https://kohwys.com/) |
 | 🌍 Portfolio | [ramonliao.vercel.app](https://ramonliao.vercel.app/) |
 
-</div>
-
 ---
 
-<div align="center">
-
 *"Technology can turn the impossible into possible!"* 🚀
-
-</div>
-]]>
