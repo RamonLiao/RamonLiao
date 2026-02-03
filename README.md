@@ -78,14 +78,6 @@ Next-generation POAP platform combining AR, AI, and cross-chain technology:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonLiao&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamonLiao&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 | Platform | Link |
