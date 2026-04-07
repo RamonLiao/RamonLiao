@@ -29,7 +29,7 @@ Full-stack developer specializing in **Crypto Analysis**, **Quantitative Trading
 
 **Blockchain & Web3**
 ```
-SUI / Move | Ethereum / Solidity | Chainlink CCIP | Multi-chain DeFi
+SUI / Move | Ethereum / Solidity | Walrus / Seal | Chainlink CCIP | Multi-chain DeFi
 ```
 
 **Data Science & Quant**
@@ -45,6 +45,29 @@ TypeScript | React | Next.js | Node.js | PostgreSQL
 ---
 
 ## 🏆 Featured Projects
+
+### 💧 SUI Ecosystem & Web3
+
+### 🛡️ [ROSMAR](https://github.com/RamonLiao/ROSMAR)
+> **The Salesforce for the Web3 Era**
+
+A decentralized, intelligent CRM built on Sui, Walrus, and Seal that redefines on-chain customer relationship management and marketing automation.
+
+---
+
+### 🐋 [BaleenPay](https://github.com/RamonLiao/BaleenPay)
+> **Web3 Subscription & Yield Optimization**
+
+A subscription payment demo system combining auto-deposit into StableLayer for merchant yield optimization.
+
+---
+
+### 🎯 [cetus-lp-copilot](https://github.com/RamonLiao/cetus-lp-copilot)
+> **Cetus DEX Concentrated Liquidity Simulator**
+
+Simulate, compare, and execute concentrated liquidity strategies on Cetus DEX with real-time risk analysis.
+
+---
 
 ### 🌊 [Thalassia](https://github.com/Thalassia)
 > **Open-source tools for building in the SUI ocean**
@@ -63,6 +86,43 @@ Next-generation POAP platform combining AR, AI, and cross-chain technology:
 - 🤖 **AI Booth Recognition** - Smart brand detection for chain selection
 - 🔗 **Cross-Chain Minting** - Chainlink CCIP for multi-chain POAPs
 - 🔔 **Nodit Integration** - Real-time notifications & Web3 Data APIs
+
+---
+
+### 🎲 [OneShot](https://github.com/RamonLiao/OneShot)
+> **Privacy-preserving Prediction Market**
+
+Sybil‑resistant predictive market Mini App with funds settled entirely across multiple chains via Chainlink CRE.
+
+---
+
+### 🏦 [BrineVault](https://github.com/RamonLiao/BrineVault)
+> **Institutional-grade RWA Data Vault**
+
+Securing due diligence, legal docs, and asset proofs in a single encrypted workspace with zero-knowledge technology.
+
+---
+
+### 📈 Quant Trading & AI Applications
+
+### 🐉 [AS Grid Dragon](https://github.com/RamonLiao/as-grid-dragon)
+> **Multi-Exchange Grid Trading Bot**
+
+Automated cryptocurrency arbitrage and rotation using grid trading algorithmic strategies.
+
+---
+
+### ⚖️ [Neutral-Maker](https://github.com/RamonLiao/Neutral-Maker)
+> **Delta-Neutral Market Maker Strategy**
+
+Algorithmic trading bot implementing a smart delta-neutral market maker approach.
+
+---
+
+### 🤖 [package-cheat](https://github.com/RamonLiao/package-cheat)
+> **Zero-Dependency Interactive CLI Tool**
+
+Auto-detects installed package managers to provide unified cheatsheets, command comparisons, and search functionality.
 
 ---
 
