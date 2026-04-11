@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-Full-stack developer specializing in **Crypto Analysis**, **Quantitative Trading Systems**, **SUI Blockchain Ecosystem**, and **Business Strategy**. I believe technology can turn the impossible into possible—dedicated to combining data science with blockchain to create innovative solutions.
+Full-stack developer specialising in **Crypto Analysis**, **Quantitative Trading Systems**, **SUI Blockchain Ecosystem**, and **Business Strategy**. I believe technology can turn the impossible into possible—dedicated to combining data science with blockchain to create innovative solutions.
 
 ---
 
@@ -51,14 +51,14 @@ TypeScript | React | Next.js | Node.js | PostgreSQL
 ### 🛡️ [ROSMAR](https://github.com/RamonLiao/ROSMAR)
 > **The Salesforce for the Web3 Era**
 
-A decentralized, intelligent CRM built on Sui, Walrus, and Seal that redefines on-chain customer relationship management and marketing automation.
+A decentralised, intelligent CRM built on Sui, Walrus, and Seal that redefines on-chain customer relationship management and marketing automation.
 
 ---
 
 ### 🐋 [BaleenPay](https://github.com/RamonLiao/BaleenPay)
-> **Web3 Subscription & Yield Optimization**
+> **Web3 Subscription & Yield Optimisation**
 
-A subscription payment demo system combining auto-deposit into StableLayer for merchant yield optimization.
+A subscription payment demo system combining auto-deposit into StableLayer for merchant yield optimisation.
 
 ---
 
@@ -132,7 +132,7 @@ Auto-detects installed package managers to provide unified cheatsheets, command 
 |----------|---------------|
 | 📊 Data Science | IBM Data Science Professional Certificate |
 | 📈 Data Analysis | IBM Data Analyst Professional Certificate |
-| 🤖 Machine Learning | Machine Learning with Python (with Honors) |
+| 🤖 Machine Learning | Machine Learning with Python (with Honours) |
 | 🐍 Python | Python for Data Science, AI & Development |
 | 💼 Enterprise | SAP Certified Development Associate - ABAP |
 
