@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yu-Cheng (Ramon) Liao
 
-### Crypto Analyst | Quantitative Trader | SUI Network Builder | Full Stack Developer
+### Crypto Analyst | Quantitative Trader | SUI & Solana Builder | Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramonliao/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RamonLiaoYC)
@@ -11,17 +11,17 @@
 
 ## 🚀 About Me
 
-Full-stack developer specialising in **Crypto Analysis**, **Quantitative Trading Systems**, **SUI Blockchain Ecosystem**, and **Business Strategy**. I believe technology can turn the impossible into possible—dedicated to combining data science with blockchain to create innovative solutions.
+Full-stack developer specialising in **Crypto Analysis**, **Quantitative Trading Systems**, **SUI & Solana Blockchain Ecosystems**, and **Business Strategy**. I believe technology can turn the impossible into possible—dedicated to combining data science with blockchain to create innovative solutions.
 
 ---
 
 ## 🔥 Core Focus
 
-| Crypto Analysis | Quantitative Trading | SUI Network | Business Analysis |
-|:---------------:|:--------------------:|:-----------:|:-----------------:|
-| Market Trend Analysis | Grid Bot Strategies | Move Smart Contracts | Business Model Design |
+| Crypto Analysis | Quantitative Trading | Blockchain Ecosystem | Business Analysis |
+|:---------------:|:--------------------:|:--------------------:|:-----------------:|
+| Market Trend Analysis | Grid Bot Strategies | Move & Rust Contracts | Business Model Design |
 | On-chain Data Research | Auto Coin Rotation | DeFi Protocol Dev | Data-Driven Decisions |
-| Token Economics | Risk Management | Ecosystem Tooling | Project Management |
+| Token Economics | Risk Management | SUI & Solana Ecosystem | Project Management |
 
 ---
 
@@ -29,7 +29,7 @@ Full-stack developer specialising in **Crypto Analysis**, **Quantitative Trading
 
 **Blockchain & Web3**
 ```
-SUI / Move | Ethereum / Solidity | Walrus / Seal | Chainlink CCIP | Multi-chain DeFi
+SUI / Move | Solana / Rust | Ethereum / Solidity | Walrus / Seal | Chainlink CCIP | Multi-chain DeFi
 ```
 
 **Data Science & Quant**
